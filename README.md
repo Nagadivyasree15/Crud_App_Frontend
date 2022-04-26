@@ -8,12 +8,16 @@ Axios is used to make http requests
 
 **To Run this project clone it and install modules using:**
 
-### `npm install`
+```
+npm install
+```
 
 Then Create config.env file and create REACT_APP_API_URL Variable and specify Value
 
 To start the project run:
 
-### `npm start`
+```
+npm start
+```
 
 Then the browser will start running on the specified port
